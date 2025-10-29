@@ -1,0 +1,5 @@
+{
+  "name": "Eco-Maths Expression Explorer (2)",
+  "description": "An interactive educational app to learn 7th-grade arithmetic expressions with fun, real-world environmental challenges, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
